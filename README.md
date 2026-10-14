@@ -86,8 +86,9 @@ When called, this endpoint:
 2. Wraps it in a Spring AI `Prompt` object
 3. Streams the AI's response back to the client in real-time
 4. Each response chunk is automatically serialized to JSON
-./mvnw clean install
+
+
+## Run
+
 ./mvnw clean install -X
-spring-boot:run
-./mvnw clean install
-vn spring-boot:run
+./mvnw spring-boot:run
