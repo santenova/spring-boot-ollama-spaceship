@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.ollama-spaceship</groupId>
-	<artifactId>openai-streaming-response</artifactId>
+	<artifactId>ollama-spaceship</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>openai-streaming-response</name>
 	<description>Demo project for Spring Boot</description>
@@ -31,6 +31,8 @@
 		<spring-ai.version>2.0.0</spring-ai.version>
 	</properties>
 	<dependencies>
+
+                
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-webflux</artifactId>
