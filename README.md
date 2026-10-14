@@ -91,4 +91,5 @@ When called, this endpoint:
 ## Run
 
 ./mvnw clean install -X
+
 ./mvnw spring-boot:run
