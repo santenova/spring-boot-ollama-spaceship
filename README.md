@@ -1,4 +1,4 @@
-# Spring Boot OpenAI Streaming Integration
+# ollama-spaceship port
 
 This Spring Boot application demonstrates real-time streaming integration with OpenAI's API using Spring AI. It provides a simple endpoint that streams AI responses using Spring WebFlux.
 
